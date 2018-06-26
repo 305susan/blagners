@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  margin:0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: bold;
+  font-size:2em;
+  color:#fff;
+}
+
+#showcase{
+  background-image:url('group.jpeg');
+  background-size:cover;
+  background-position:center;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  padding:0 20px;
+}
+
